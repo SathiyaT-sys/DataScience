@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Gender
+Alice,30,70000,,Male
+Bob,25,,Sales,
+Charlie,35,80000,Engineering,Male
+Diana,28,,Marketing,Female
+Eve,40,100000,Sales,Female
+Frank,,55000,Marketing,Male
+Grace,29,75000,,Female
+Henry,33,,Sales,
+Ivy,27,52000,Marketing,Female
+Jack,,95000,Engineering,Male

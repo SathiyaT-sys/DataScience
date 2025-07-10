@@ -1,0 +1,3 @@
+Make a pie chart of daily time spent on 4 activities
+make 2x2 grid (4 plot)in a single figure
+placed age and salary in line plot after handle the missing values from data.csv
